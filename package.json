@@ -1,0 +1,19 @@
+{
+  "name": "ecoproject_info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungnq139/EcoProject_Info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungnq139/EcoProject_Info/issues"
+  },
+  "homepage": "https://github.com/hungnq139/EcoProject_Info#readme"
+}
