@@ -12,5 +12,3 @@ const info2 = ({navigation}) => {
 }
 
 export default info2
-
-const styles = StyleSheet.create({})
