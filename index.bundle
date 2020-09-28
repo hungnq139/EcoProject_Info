@@ -1,1 +1,3 @@
+__d(function(g,r,i,a,m,e,d){var t=r(d[0]);Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var n=t(r(d[1])),l=r(d[2]),f=function(t){var f=t.navigation;return(0,n.useEffect)(function(){console.log('moe info')},[]),n.default.createElement(l.View,{style:{flex:1,justifyContent:'center'}},n.default.createElement(l.TouchableOpacity,{onPress:function(){return f.navigate('Detail')},style:{alignSelf:'center'}},n.default.createElement(l.Text,{style:{fontSize:36}},"Info screen")))},o=f;e.default=o,g.InfoScreen=f},30573,[9,55,2]);
 
+__r(30573);
