@@ -5,6 +5,12 @@ import {View, TouchableOpacity, Text} from 'react-native';
 
 import ABC from './info2.js'
 
+export const DechScr = ({navigation}) =>  (<View style={{flex: 1, justifyContent: 'center'}}>
+    <Text>Teo roi</Text>
+<ABC navigation = {navigation}/>
+</View>)
+global.DechScr = DechScr;
+
 const Info = ({navigation}) => {
   useEffect(() => {
     console.log('moe info');
